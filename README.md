@@ -1,4 +1,4 @@
-# FNB-App-Academy-2025
+# FNB-App-Academy Journey
 Full-Stack Development Bootcamp with FNB
 
 # FNB App Academy 2025
