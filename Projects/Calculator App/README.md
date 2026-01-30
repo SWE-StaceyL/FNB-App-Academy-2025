@@ -1,4 +1,4 @@
-FNB APP Academy 2025 Project Calculator App
+FNB APP Academy 2025 Projects
 
 ### 1. Calculator App
 - 🔗 Repo: https://github.com/SWE-StaceyL/calculator-app
